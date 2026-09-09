@@ -17,7 +17,6 @@ All techniques documented here were performed in a **controlled home lab** again
 | Domain            | `mo.local`  |
 | Domain Controller | `10.0.0.60` |
 | Workstation 1     | `10.0.0.50` |
-| Workstation 2     | `10.0.0.70` |
 | Attack Machine    | Kali Linux  |
 
 **Tools used:** Responder, Hashcat, Impacket, Metasploit, Nmap, Rubeus, Splunk
