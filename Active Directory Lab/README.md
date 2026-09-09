@@ -73,27 +73,3 @@ Deeper access / privilege escalation
 ```
 
 ---
-
-## Repo Structure
-
-```
-├── README.md
-├── llmnr-poisoning.md
-├── gaining-shell.md
-├── kerberoasting.md
-└── Screenshots/
-    ├── responder-running.png
-    ├── llmnr-event.png
-    ├── hash-captured.png
-    ├── hashcat-cracking-ntlmhash.png
-    ├── nmap-scan.png
-    ├── metasploit-psexec-shell.png
-    ├── impacket-psexec.png
-    ├── impacket-smbexec.png
-    ├── impacket-wmiexec.png
-    ├── nmap-dc-discovery.png
-    ├── kerberoasting-attack-flowchart.png
-    ├── impacket-getuserspns.png
-    ├── hashcat-cracking-krb5tgs.png
-    └── splunk-4769-query.png
-```
