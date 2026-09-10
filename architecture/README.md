@@ -1,3 +1,7 @@
+# Documentation
+
+> 🚧 This documentation is currently under construction.
+
 ## Network Architecture (Flat Topology)
 
 The lab is currently deployed on a flat network configuration where all virtual machines reside within the same broadcast domain.
