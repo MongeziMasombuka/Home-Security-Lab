@@ -1,0 +1,271 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "WIN10"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dNSHostName": [
+            "WIN10.mo.local"
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "distinguishedName": [
+            "CN=WIN10,CN=Computers,DC=mo,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            false
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2026-09-06 21:35:32.046951+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2026-08-28 00:05:57.107189+00:00"
+        ],
+        "localPolicyFlags": [
+            0
+        ],
+        "logonCount": [
+            74
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            28
+        ],
+        "name": [
+            "WIN10"
+        ],
+        "objectCategory": [
+            "CN=Computer,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectGUID": [
+            "{4cf72b2e-ba98-4d4e-8a01-4ebd3f4f9d0e}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-1105"
+        ],
+        "operatingSystem": [
+            "Windows 10 Pro"
+        ],
+        "operatingSystemVersion": [
+            "10.0 (19045)"
+        ],
+        "primaryGroupID": [
+            515
+        ],
+        "pwdLastSet": [
+            "2026-08-28 00:04:20.200733+00:00"
+        ],
+        "sAMAccountName": [
+            "WIN10$"
+        ],
+        "sAMAccountType": [
+            805306369
+        ],
+        "servicePrincipalName": [
+            "TERMSRV/WIN10",
+            "TERMSRV/WIN10.mo.local",
+            "RestrictedKrbHost/WIN10",
+            "HOST/WIN10",
+            "RestrictedKrbHost/WIN10.mo.local",
+            "HOST/WIN10.mo.local"
+        ],
+        "uSNChanged": [
+            16430
+        ],
+        "uSNCreated": [
+            12813
+        ],
+        "userAccountControl": [
+            4096
+        ],
+        "whenChanged": [
+            "2026-08-30 08:07:02+00:00"
+        ],
+        "whenCreated": [
+            "2026-08-28 00:04:20+00:00"
+        ]
+    },
+    "dn": "CN=WIN10,CN=Computers,DC=mo,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "DC01"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dNSHostName": [
+            "DC01.mo.local"
+        ],
+        "dSCorePropagationData": [
+            "2026-08-27 21:21:11+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "distinguishedName": [
+            "CN=DC01,OU=Domain Controllers,DC=mo,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2026-09-06 20:36:50.577040+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2026-08-27 21:21:50.765396+00:00"
+        ],
+        "localPolicyFlags": [
+            0
+        ],
+        "logonCount": [
+            88
+        ],
+        "memberOf": [
+            "CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=mo,DC=local",
+            "CN=Cert Publishers,CN=Users,DC=mo,DC=local"
+        ],
+        "msDFSR-ComputerReferenceBL": [
+            "CN=DC01,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=mo,DC=local"
+        ],
+        "msDS-GenerationId": [
+            {
+                "encoded": "XMN/bfxiXHw=",
+                "encoding": "base64"
+            }
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            28
+        ],
+        "name": [
+            "DC01"
+        ],
+        "objectCategory": [
+            "CN=Computer,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user",
+            "computer"
+        ],
+        "objectGUID": [
+            "{9938eb1e-9e8b-4efe-a6bc-295a76941f90}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-1000"
+        ],
+        "operatingSystem": [
+            "Windows Server 2022 Standard"
+        ],
+        "operatingSystemVersion": [
+            "10.0 (20348)"
+        ],
+        "primaryGroupID": [
+            516
+        ],
+        "pwdLastSet": [
+            "2026-08-27 17:51:51.966354+00:00"
+        ],
+        "rIDSetReferences": [
+            "CN=RID Set,CN=DC01,OU=Domain Controllers,DC=mo,DC=local"
+        ],
+        "sAMAccountName": [
+            "DC01$"
+        ],
+        "sAMAccountType": [
+            805306369
+        ],
+        "serverReferenceBL": [
+            "CN=DC01,CN=Servers,CN=Default-First-Site-Name,CN=Sites,CN=Configuration,DC=mo,DC=local"
+        ],
+        "servicePrincipalName": [
+            "Dfsr-12F9A27C-BF97-4787-9364-D31B6C55EB04/DC01.mo.local",
+            "ldap/DC01.mo.local/ForestDnsZones.mo.local",
+            "ldap/DC01.mo.local/DomainDnsZones.mo.local",
+            "DNS/DC01.mo.local",
+            "GC/DC01.mo.local/mo.local",
+            "RestrictedKrbHost/DC01.mo.local",
+            "RestrictedKrbHost/DC01",
+            "RPC/48c9809a-11dd-42ba-b650-43fe3ee39e82._msdcs.mo.local",
+            "HOST/DC01/MO",
+            "HOST/DC01.mo.local/MO",
+            "HOST/DC01",
+            "HOST/DC01.mo.local",
+            "HOST/DC01.mo.local/mo.local",
+            "E3514235-4B06-11D1-AB04-00C04FC2DCD2/48c9809a-11dd-42ba-b650-43fe3ee39e82/mo.local",
+            "ldap/DC01/MO",
+            "ldap/48c9809a-11dd-42ba-b650-43fe3ee39e82._msdcs.mo.local",
+            "ldap/DC01.mo.local/MO",
+            "ldap/DC01",
+            "ldap/DC01.mo.local",
+            "ldap/DC01.mo.local/mo.local"
+        ],
+        "uSNChanged": [
+            40994
+        ],
+        "uSNCreated": [
+            12293
+        ],
+        "userAccountControl": [
+            532480
+        ],
+        "userCertificate": [
+            {
+                "encoded": "MIIFwTCCBKmgAwIBAgITVwAAAAMN8rHhVNQUUgAAAAAAAzANBgkqhkiG9w0BAQsFADBAMRUwEwYKCZImiZPyLGQBGRYFbG9jYWwxEjAQBgoJkiaJk/IsZAEZFgJtbzETMBEGA1UEAxMKbW8tREMwMS1DQTAeFw0yNjA5MDYyMDI2NTBaFw0yNzA5MDYyMDI2NTBaMBgxFjAUBgNVBAMTDURDMDEubW8ubG9jYWwwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCfK3uqpf5QKa70W4p6+XflIUC2dRGohvlJgcoaJa9SBN8fiQTFL8Jcje1DmKZpJbkI0hrmsjv/B0/kmNDbVtAqxEG2q6wWKv+eW88ye127cd2UnvUiIjFiHwJMSREgNipYJKaNc33pwgzKsC0YXMCdVC2oNz4yeAZX4WWgg7Hg7D1QLpefT8oFeB4NRuGlwg4QnTU4qeJNELD42PwADy80ufnL/IEni5pAFBDxzZg9Mn0R2iQok3gTVe3ndny+sFpzg4hnLWXlCtvomutoXTGRnA0o5UvvWQ1hFbEOyvHaUk3T+xdcZupzLOmk3mYKhD62KJuOLrQVCNOwKEngEvrZAgMBAAGjggLaMIIC1jAvBgkrBgEEAYI3FAIEIh4gAEQAbwBtAGEAaQBuAEMAbwBuAHQAcgBvAGwAbABlAHIwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMBMA4GA1UdDwEB/wQEAwIFoDB4BgkqhkiG9w0BCQ8EazBpMA4GCCqGSIb3DQMCAgIAgDAOBggqhkiG9w0DBAICAIAwCwYJYIZIAWUDBAEqMAsGCWCGSAFlAwQBLTALBglghkgBZQMEAQIwCwYJYIZIAWUDBAEFMAcGBSsOAwIHMAoGCCqGSIb3DQMHMB0GA1UdDgQWBBTaac+z3CujoVQQUkMbR2IxuNpXlTAfBgNVHSMEGDAWgBToTG96o4xqh/Y0sdyaMPZp67k3kjCBwgYDVR0fBIG6MIG3MIG0oIGxoIGuhoGrbGRhcDovLy9DTj1tby1EQzAxLUNBLENOPURDMDEsQ049Q0RQLENOPVB1YmxpYyUyMEtleSUyMFNlcnZpY2VzLENOPVNlcnZpY2VzLENOPUNvbmZpZ3VyYXRpb24sREM9bW8sREM9bG9jYWw/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlP29iamVjdENsYXNzPWNSTERpc3RyaWJ1dGlvblBvaW50MIG5BggrBgEFBQcBAQSBrDCBqTCBpgYIKwYBBQUHMAKGgZlsZGFwOi8vL0NOPW1vLURDMDEtQ0EsQ049QUlBLENOPVB1YmxpYyUyMEtleSUyMFNlcnZpY2VzLENOPVNlcnZpY2VzLENOPUNvbmZpZ3VyYXRpb24sREM9bW8sREM9bG9jYWw/Y0FDZXJ0aWZpY2F0ZT9iYXNlP29iamVjdENsYXNzPWNlcnRpZmljYXRpb25BdXRob3JpdHkwOQYDVR0RBDIwMKAfBgkrBgEEAYI3GQGgEgQQHus4mYue/k6mvCladpQfkIINREMwMS5tby5sb2NhbDANBgkqhkiG9w0BAQsFAAOCAQEAhoLo0i6d14YWV8daBhMg/+H0ffUYYqtkIYI7Hr6NFhkSQfcflAX6AJR9fp/zxzSm/KF2LbFTe39g6NXsK5dr4eA7umpebDzdBlrxGyObDJFoP2D7IzU29PsdIIFIQIjGClLe5/I/B4kZ3U6Ja+3PTszoAlbpUmIj8+hliTIUNcRUhJFuItY/hxySqa3+BnqlUpHddICJfPNNF6mldl+paxxw0My53N9ayRCkYHyuS9/2eNW2mR16bA219McqblKCLBf28swB9hoeeWo1DM5tZinSqDQJAbpaXBhT2sacXWGT76eWI+bReSRGHHbTt4WF5wW5b026d1RLIhLQN+x9dQ==",
+                "encoding": "base64"
+            }
+        ],
+        "whenChanged": [
+            "2026-09-06 20:36:50+00:00"
+        ],
+        "whenCreated": [
+            "2026-08-27 21:21:10+00:00"
+        ]
+    },
+    "dn": "CN=DC01,OU=Domain Controllers,DC=mo,DC=local"
+}]

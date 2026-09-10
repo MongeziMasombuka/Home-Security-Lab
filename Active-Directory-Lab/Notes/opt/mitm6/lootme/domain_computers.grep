@@ -1,0 +1,3 @@
+cn	sAMAccountName	dNSHostName	operatingSystem	operatingSystemServicePack	operatingSystemVersion	lastLogon	userAccountControl	whenCreated	objectSid	description
+WIN10	WIN10$	WIN10.mo.local	Windows 10 Pro		10.0 (19045)	09/06/26 21:35:32	WORKSTATION_ACCOUNT	08/28/26 00:04:20	S-1-5-21-2439172825-1534958659-339923463-1105	
+DC01	DC01$	DC01.mo.local	Windows Server 2022 Standard		10.0 (20348)	09/06/26 20:36:50	SERVER_TRUST_ACCOUNT, TRUSTED_FOR_DELEGATION	08/27/26 21:21:10	S-1-5-21-2439172825-1534958659-339923463-1000	

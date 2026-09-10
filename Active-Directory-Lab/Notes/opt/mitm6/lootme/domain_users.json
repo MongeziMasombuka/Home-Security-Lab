@@ -1,0 +1,828 @@
+[{
+    "attributes": {
+        "accountExpires": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "VodqcCWOeR"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "VodqcCWOeR"
+        ],
+        "distinguishedName": [
+            "CN=VodqcCWOeR,CN=Users,DC=mo,DC=local"
+        ],
+        "givenName": [
+            "VodqcCWOeR"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "name": [
+            "VodqcCWOeR"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{831f4b12-4995-4b26-90ab-754dda532cab}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-1111"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2026-09-06 21:45:39.703161+00:00"
+        ],
+        "sAMAccountName": [
+            "VodqcCWOeR"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "VodqcCWOeR"
+        ],
+        "uSNChanged": [
+            41070
+        ],
+        "uSNCreated": [
+            41068
+        ],
+        "userAccountControl": [
+            512
+        ],
+        "whenChanged": [
+            "2026-09-06 21:45:39+00:00"
+        ],
+        "whenCreated": [
+            "2026-09-06 21:45:39+00:00"
+        ]
+    },
+    "dn": "CN=VodqcCWOeR,CN=Users,DC=mo,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "SQL Service"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2026-09-05 16:37:54+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "description": [
+            "My password is DBpassword"
+        ],
+        "displayName": [
+            "SQL Service"
+        ],
+        "distinguishedName": [
+            "CN=SQL Service,OU=IT,DC=mo,DC=local"
+        ],
+        "givenName": [
+            "SQL"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,CN=Users,DC=mo,DC=local",
+            "CN=Domain Admins,CN=Users,DC=mo,DC=local",
+            "CN=Enterprise Admins,CN=Users,DC=mo,DC=local",
+            "CN=Schema Admins,CN=Users,DC=mo,DC=local",
+            "CN=Administrators,CN=Builtin,DC=mo,DC=local"
+        ],
+        "name": [
+            "SQL Service"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{e0826205-a996-4aaf-8501-1cc973e2903e}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-1110"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2026-09-05 15:44:10.377836+00:00"
+        ],
+        "sAMAccountName": [
+            "SQLService"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "DC01/SQLService.mo.local:60111"
+        ],
+        "sn": [
+            "Service"
+        ],
+        "uSNChanged": [
+            28767
+        ],
+        "uSNCreated": [
+            28731
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "SQLService@mo.local"
+        ],
+        "whenChanged": [
+            "2026-09-05 16:40:55+00:00"
+        ],
+        "whenCreated": [
+            "2026-09-05 15:44:10+00:00"
+        ]
+    },
+    "dn": "CN=SQL Service,OU=IT,DC=mo,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Bruce Wayne"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2026-09-05 16:37:54+00:00",
+            "2026-09-05 15:39:36+00:00",
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Bruce Wayne"
+        ],
+        "distinguishedName": [
+            "CN=Bruce Wayne,OU=IT,DC=mo,DC=local"
+        ],
+        "givenName": [
+            "Bruce"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,CN=Users,DC=mo,DC=local",
+            "CN=Domain Admins,CN=Users,DC=mo,DC=local",
+            "CN=Enterprise Admins,CN=Users,DC=mo,DC=local",
+            "CN=Schema Admins,CN=Users,DC=mo,DC=local",
+            "CN=Administrators,CN=Builtin,DC=mo,DC=local"
+        ],
+        "name": [
+            "Bruce Wayne"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{69c7d661-eb36-42a3-adde-5cd8c93c411f}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-1107"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2026-09-05 15:47:21.238018+00:00"
+        ],
+        "sAMAccountName": [
+            "batman"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Wayne"
+        ],
+        "uSNChanged": [
+            28766
+        ],
+        "uSNCreated": [
+            28700
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "userPrincipalName": [
+            "batman@mo.local"
+        ],
+        "whenChanged": [
+            "2026-09-05 16:37:54+00:00"
+        ],
+        "whenCreated": [
+            "2026-09-05 15:39:13+00:00"
+        ]
+    },
+    "dn": "CN=Bruce Wayne,OU=IT,DC=mo,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "J Cole"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "J Cole"
+        ],
+        "distinguishedName": [
+            "CN=J Cole,OU=IT,DC=mo,DC=local"
+        ],
+        "givenName": [
+            "J"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2026-09-02 01:52:47.531397+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "name": [
+            "J Cole"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{1182207e-cbfe-45f9-8ccf-d8c2ab848224}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-1106"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2026-09-02 01:51:10.016663+00:00"
+        ],
+        "sAMAccountName": [
+            "j.cole"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Cole"
+        ],
+        "uSNChanged": [
+            24612
+        ],
+        "uSNCreated": [
+            24606
+        ],
+        "userAccountControl": [
+            512
+        ],
+        "userPrincipalName": [
+            "j.cole@mo.local"
+        ],
+        "whenChanged": [
+            "2026-09-02 01:52:47+00:00"
+        ],
+        "whenCreated": [
+            "2026-09-02 01:51:09+00:00"
+        ]
+    },
+    "dn": "CN=J Cole,OU=IT,DC=mo,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "2026-09-02 02:22:14.203777+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Kendrick Lamar"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "displayName": [
+            "Kendrick Lamar"
+        ],
+        "distinguishedName": [
+            "CN=Kendrick Lamar,OU=IT,DC=mo,DC=local"
+        ],
+        "givenName": [
+            "Kendrick"
+        ],
+        "instanceType": [
+            4
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2026-09-06 20:48:03.328115+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2026-08-28 00:07:44.377726+00:00"
+        ],
+        "logonCount": [
+            27
+        ],
+        "name": [
+            "Kendrick Lamar"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{6ce2d429-d104-4f75-94fd-a3447d65ddb4}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-1104"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2026-08-27 23:54:10.794270+00:00"
+        ],
+        "sAMAccountName": [
+            "k.lamar"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "sn": [
+            "Lamar"
+        ],
+        "uSNChanged": [
+            12828
+        ],
+        "uSNCreated": [
+            12803
+        ],
+        "userAccountControl": [
+            512
+        ],
+        "userPrincipalName": [
+            "k.lamar@mo.local"
+        ],
+        "whenChanged": [
+            "2026-08-28 00:07:44+00:00"
+        ],
+        "whenCreated": [
+            "2026-08-27 23:54:10+00:00"
+        ]
+    },
+    "dn": "CN=Kendrick Lamar,OU=IT,DC=mo,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "krbtgt"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2026-08-27 21:36:20+00:00",
+            "2026-08-27 21:21:11+00:00",
+            "1601-01-01 00:04:16+00:00"
+        ],
+        "description": [
+            "Key Distribution Center Service Account"
+        ],
+        "distinguishedName": [
+            "CN=krbtgt,CN=Users,DC=mo,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Denied RODC Password Replication Group,CN=Users,DC=mo,DC=local"
+        ],
+        "msDS-SupportedEncryptionTypes": [
+            0
+        ],
+        "name": [
+            "krbtgt"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{fdc9ba9d-6354-47ab-bc78-fc30f22139b9}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-502"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2026-08-27 21:21:10.949362+00:00"
+        ],
+        "sAMAccountName": [
+            "krbtgt"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "servicePrincipalName": [
+            "kadmin/changepw"
+        ],
+        "showInAdvancedViewOnly": [
+            true
+        ],
+        "uSNChanged": [
+            12773
+        ],
+        "uSNCreated": [
+            12324
+        ],
+        "userAccountControl": [
+            514
+        ],
+        "whenChanged": [
+            "2026-08-27 21:36:20+00:00"
+        ],
+        "whenCreated": [
+            "2026-08-27 21:21:10+00:00"
+        ]
+    },
+    "dn": "CN=krbtgt,CN=Users,DC=mo,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "badPasswordTime": [
+            "2026-08-31 15:19:06.433239+00:00"
+        ],
+        "badPwdCount": [
+            34
+        ],
+        "cn": [
+            "Guest"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2026-08-27 21:21:11+00:00",
+            "1601-01-01 00:00:01+00:00"
+        ],
+        "description": [
+            "Built-in account for guest access to the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Guest,CN=Users,DC=mo,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "logonCount": [
+            0
+        ],
+        "memberOf": [
+            "CN=Guests,CN=Builtin,DC=mo,DC=local"
+        ],
+        "name": [
+            "Guest"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{b2ac32c7-86b5-4635-869b-17da780ee07f}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-501"
+        ],
+        "primaryGroupID": [
+            514
+        ],
+        "pwdLastSet": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "sAMAccountName": [
+            "Guest"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            8197
+        ],
+        "uSNCreated": [
+            8197
+        ],
+        "userAccountControl": [
+            66082
+        ],
+        "whenChanged": [
+            "2026-08-27 21:20:08+00:00"
+        ],
+        "whenCreated": [
+            "2026-08-27 21:20:08+00:00"
+        ]
+    },
+    "dn": "CN=Guest,CN=Users,DC=mo,DC=local"
+},{
+    "attributes": {
+        "accountExpires": [
+            "9999-12-31 23:59:59.999999+00:00"
+        ],
+        "adminCount": [
+            1
+        ],
+        "badPasswordTime": [
+            "2026-08-31 15:18:19.120516+00:00"
+        ],
+        "badPwdCount": [
+            0
+        ],
+        "cn": [
+            "Administrator"
+        ],
+        "codePage": [
+            0
+        ],
+        "countryCode": [
+            0
+        ],
+        "dSCorePropagationData": [
+            "2026-08-27 21:36:20+00:00",
+            "2026-08-27 21:36:20+00:00",
+            "2026-08-27 21:21:11+00:00",
+            "1601-01-01 18:12:16+00:00"
+        ],
+        "description": [
+            "Built-in account for administering the computer/domain"
+        ],
+        "distinguishedName": [
+            "CN=Administrator,CN=Users,DC=mo,DC=local"
+        ],
+        "instanceType": [
+            4
+        ],
+        "isCriticalSystemObject": [
+            true
+        ],
+        "lastLogoff": [
+            "1601-01-01 00:00:00+00:00"
+        ],
+        "lastLogon": [
+            "2026-09-06 21:34:40.046825+00:00"
+        ],
+        "lastLogonTimestamp": [
+            "2026-08-27 21:24:58.671936+00:00"
+        ],
+        "logonCount": [
+            29
+        ],
+        "memberOf": [
+            "CN=Group Policy Creator Owners,CN=Users,DC=mo,DC=local",
+            "CN=Domain Admins,CN=Users,DC=mo,DC=local",
+            "CN=Enterprise Admins,CN=Users,DC=mo,DC=local",
+            "CN=Schema Admins,CN=Users,DC=mo,DC=local",
+            "CN=Administrators,CN=Builtin,DC=mo,DC=local"
+        ],
+        "name": [
+            "Administrator"
+        ],
+        "objectCategory": [
+            "CN=Person,CN=Schema,CN=Configuration,DC=mo,DC=local"
+        ],
+        "objectClass": [
+            "top",
+            "person",
+            "organizationalPerson",
+            "user"
+        ],
+        "objectGUID": [
+            "{5a268fc4-def3-4e66-ba66-6fe6be6f32d0}"
+        ],
+        "objectSid": [
+            "S-1-5-21-2439172825-1534958659-339923463-500"
+        ],
+        "primaryGroupID": [
+            513
+        ],
+        "pwdLastSet": [
+            "2026-08-27 20:52:32.603041+00:00"
+        ],
+        "sAMAccountName": [
+            "Administrator"
+        ],
+        "sAMAccountType": [
+            805306368
+        ],
+        "uSNChanged": [
+            12761
+        ],
+        "uSNCreated": [
+            8196
+        ],
+        "userAccountControl": [
+            66048
+        ],
+        "whenChanged": [
+            "2026-08-27 21:36:20+00:00"
+        ],
+        "whenCreated": [
+            "2026-08-27 21:20:08+00:00"
+        ]
+    },
+    "dn": "CN=Administrator,CN=Users,DC=mo,DC=local"
+}]
